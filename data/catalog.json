@@ -1,0 +1,9 @@
+{
+ "updatedAt":"2026-11-21",
+ "collectionStatus":"manually-verified-initial-seed; automatic-source-approval-pending",
+ "products":[
+  {"id":"rc-0","manufacturer":"ロイヤルカナン","name":"ニュータードケア ドライ","type":"dry","kcal":333,"source":"https://www.royalcanin.com/jp/cats/products/vet-products/neutered-care-2721","verified":"2026-11-21","origin":"official"},
+  {"id":"rc-2","manufacturer":"ロイヤルカナン","name":"ニュータードケア ウェット パウチ","type":"wet","kcal":77,"source":"https://www.royalcanin.com/jp/cats/products/vet-products/neutered-balance-4088","verified":"2026-11-21","origin":"official"},
+  {"id":"inaba-3112","manufacturer":"いなばペットフード","name":"CIAO ちゅ～る まぐろ（14g×4本）","type":"treat","kcal":50,"source":"https://www.inaba-petfood.co.jp/product/detail/CIAO%2B%E3%81%A1%E3%82%85%EF%BD%9E%E3%82%8B/3112","verified":"2026-11-21","origin":"official","note":"約7kcal/本、1本14gから換算。概数。"}
+ ]
+}
